@@ -1,5 +1,6 @@
 
 Quetion Link : https://practice.geeksforgeeks.org/problems/santa-banta2814/1
+
 ** Pseudo-code: **
 
 1. Initialize an adjacency list `adj` to store the graph connections.
